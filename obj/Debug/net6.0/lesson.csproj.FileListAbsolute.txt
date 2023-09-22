@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/lesson/bin/Debug/net6.0/lesson
+/Users/safiyevelnur/Desktop/lesson/bin/Debug/net6.0/lesson.deps.json
+/Users/safiyevelnur/Desktop/lesson/bin/Debug/net6.0/lesson.runtimeconfig.json
+/Users/safiyevelnur/Desktop/lesson/bin/Debug/net6.0/lesson.dll
+/Users/safiyevelnur/Desktop/lesson/bin/Debug/net6.0/lesson.pdb
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.dll
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/refint/lesson.dll
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.pdb
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/lesson.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/lesson/obj/Debug/net6.0/ref/lesson.dll
